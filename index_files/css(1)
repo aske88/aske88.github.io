@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Imprima';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Imprima'), local('Imprima-Regular'), url(http://themes.googleusercontent.com/static/fonts/imprima/v1/tKo6X7ntu6tGh518npYtOALUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+}
